@@ -1,0 +1,16 @@
+##############################################
+# Syntax Coloring Map For ControlDigitalOutput
+##############################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ControlDigitalOutput	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+on	KEYWORD2
+off	KEYWORD2
