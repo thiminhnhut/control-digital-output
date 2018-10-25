@@ -24,7 +24,7 @@ Thư viện ControlDigitalOutput
 
 * Thư mục source: `src <https://github.com/thiminhnhut/control-digital-output/blob/master/src>`_.
 
-  * File `RandomLib.h <https://github.com/thiminhnhut/control-digital-output/blob/master/src/ControlDigitalOutput.h>`_:
+  * File `ControlDigitalOutput.h <https://github.com/thiminhnhut/control-digital-output/blob/master/src/ControlDigitalOutput.h>`_:
 
   .. code::
 
