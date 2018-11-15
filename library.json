@@ -1,5 +1,5 @@
 {
-    "name": "Control Digital Output",
+    "name": "ControlDigitalOutput",
     "keywords": "ControlDigitalOutput",
     "description": "Control Digital Output Library for Arduino, ESP8266, ESP32",
     "authors": {
