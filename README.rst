@@ -5,7 +5,7 @@ Thư viện điều khiển ngõ ra digital cho Arduino, ESP8266, ESP32
 :Info: Github <https://github.com/thiminhnhut/control-digital-output>
 :Author: Thi Minh Nhựt <thiminhnhut@gmail.com>
 :Date: $Date: 25/10/2018 $
-:Revision: $Revision: 1.0.0 $
+:Revision: $Revision: 1.0.1 $
 :Description: Thư viện điều khiển ngõ ra digital cho Arduino, ESP8266, ESP32
 
 =============================================================================

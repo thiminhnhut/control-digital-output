@@ -5,6 +5,7 @@
 .travis.yml
 include
 lib
+.pio
 platformio.ini
 .vscode
 .vscode/.browse.c_cpp.db*
